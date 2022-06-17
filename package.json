@@ -1,0 +1,22 @@
+{
+    "name": "sentence-validator",
+    "version": "1.0.0",
+    "description": "sentence-validator",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jatindodiya/sentence-validator.git"
+    },
+    "keywords": [
+        "sentence-validator"
+    ],
+    "author": "Jatin Dodiya",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jatindodiya/sentence-validator/issues"
+    },
+    "homepage": "https://github.com/jatindodiya/sentence-validator#readme"
+}
