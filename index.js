@@ -1,5 +1,9 @@
+const { check_message } = require("./function");
+
 function sentenceValidator( string ){
-    return string === "jatin";
+
+    return check_message(string)
+
 }
 
 
